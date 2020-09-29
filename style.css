@@ -63,5 +63,5 @@ footer p {
 @media (max-width: 768px)
 .d-md-block {
     display: block!important;
-    font-size: smaller;
+    font-size: 2vw;
 }
